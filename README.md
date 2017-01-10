@@ -55,4 +55,4 @@ For mini-projects, [Processing programming](https://processing.org/) language ca
  
  2016.11---2017.2.20
  
-                                                         from Loser Sun
+                                                                                    from Loser Sun
