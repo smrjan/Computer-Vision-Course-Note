@@ -19,7 +19,7 @@ and events by extracJng informaJon from the light they emit or reflect
 
  ![img1.1](https://raw.githubusercontent.com/Mr0Moonlight/Computer-Vision-Course-Note/master/relevant%20materials/picture/1.1.JPG)
 
- ！[img1.2](https://raw.githubusercontent.com/Mr0Moonlight/Computer-Vision-Course-Note/master/relevant%20materials/picture/1.2.JPG)
+ ![img1.2](https://raw.githubusercontent.com/Mr0Moonlight/Computer-Vision-Course-Note/master/relevant%20materials/picture/1.2.JPG)
  
      `Perception is analogous to taking a picture! (credit: Palmer, 2012)`
 
