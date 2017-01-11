@@ -1,7 +1,7 @@
 ﻿
 # Lecture 1-Introduction
 
-标签： Note
+Tag： Note
 
 ---
 
