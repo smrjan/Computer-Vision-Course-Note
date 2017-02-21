@@ -53,6 +53,6 @@ For mini-projects, [Processing programming](https://processing.org/) language ca
 
 ### 4. **学习时间** 
  
- 2016.11---2017.2.20
+ 2016.11---2017.3.20
  
                                                                                     from Loser Sun
