@@ -34,13 +34,13 @@ From the image above, it is obvious that we can't use the same window to detect 
 But this LoG is a little costly, so SIFT algorithm uses Difference of Gaussians which is an approximation of LoG. Difference of Gaussian is obtained as the difference of Gaussian blurring of an image with two different :math:`\sigma`, let it be :math:`\sigma` and :math:`k\sigma`. This process is done for different octaves of the image in Gaussian Pyramid. It is represented in below image:
 
 
-    .. image:: images/sift_dog.jpg
+    .. image:: https://raw.githubusercontent.com/abidrahmank/OpenCV2-Python-Tutorials/master/source/py_tutorials/py_feature2d/py_sift_intro/images/sift_dog.jpg
         :alt: Difference of Gaussian
         :align: center
 
 Once this DoG are found, images are searched for local extrema over scale and space. For eg, one pixel in an image is compared with its 8 neighbours as well as 9 pixels in next scale and 9 pixels in previous scales. If it is a local extrema, it is a potential keypoint. It basically means that keypoint is best represented in that scale. It is shown in below image:
 
-    .. image:: images/sift_local_extrema.jpg
+    .. image:: https://raw.githubusercontent.com/abidrahmank/OpenCV2-Python-Tutorials/master/source/py_tutorials/py_feature2d/py_sift_intro/images/sift_local_extrema.jpg
         :alt: Difference of Gaussian
         :align: center 
 
@@ -110,7 +110,7 @@ OpenCV also provides **cv2.drawKeyPoints()** function which draws the small circ
 
 See the two results below:
 
-    .. image:: images/sift_keypoints.jpg
+    .. image:: https://github.com/abidrahmank/OpenCV2-Python-Tutorials/blob/master/source/py_tutorials/py_feature2d/py_sift_intro/images/sift_keypoints.jpg
         :alt: SIFT Keypoints
         :align: center
         
