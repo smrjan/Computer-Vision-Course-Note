@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 24 16:21:23 2017
-
-@author: huihui
-"""
 
 .. _sift_intro:
 
